@@ -13,7 +13,7 @@ class EntradaTempo extends StatelessWidget {
     this.dec,
     this.inc,
   });
-
+//
   @override
   Widget build(BuildContext context) {
     return Column(
